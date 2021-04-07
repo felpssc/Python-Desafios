@@ -1,0 +1,2 @@
+# Desafios em Python
+Lista com exercícios e desafios em python resolvidos durante a disciplina de  de Paradigmas de Linguagens de Programação em Python no curso de Análise e Desenvolvimento de Sistemas.
